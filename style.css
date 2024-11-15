@@ -35,11 +35,11 @@ h1{
     align-items: center;
     flex-direction: column;
     border: 2px solid;
-    border-radius: 25px;
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     -ms-border-radius: 25px;
     -o-border-radius: 25px;
+    border-radius: 25px;
 }
 
 .left-section{
@@ -77,11 +77,11 @@ h1{
     color: white;
     background: black;
     font-weight: 500;
-    border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+    border-radius: 10px;
 }
 
 .line{
@@ -102,9 +102,9 @@ h1{
     height: 18px;
     margin: 41px 0px;
     background-color: black;
-    border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
     -ms-border-radius: 50px;
     -o-border-radius: 50px;
+    border-radius: 50px;
 }
